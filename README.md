@@ -1,2 +1,1 @@
-# hello-world
-Hello world new project template.
+工程里面用的是现在cocoscreator引擎的slider。工程内含有两个视频，一个是未修改的slider，一个是修改后的slider
